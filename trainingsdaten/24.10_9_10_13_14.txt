@@ -1,0 +1,6 @@
+housing= 9 
+motor2= 10
+wrench = 13
+drill = 14
+
+mit Täuschkörper

@@ -1,0 +1,15 @@
+Gruppe1: 19.10_1_3_4_5_6   0 bis 100.000
+	train: 0 bis 3199          val: 3200 bis 4000
+Gruppe2: 24.10_9_10_13_14  200.000 bis 299.999
+	train: 200.000 bis 203.199 val: 204.000 bis 204.799
+	
+Gruppe3: 27.10_2_16_17     300.000 bis 399.999
+	train: 300.000 bis 303.199 val: 303.200 bis 303.999
+	
+Gruppe4: 31.10_8           400.000 bis 499.999
+	train: 400.000 bis 400.415 val: 400.416 bis 400.462
+	
+Gruppe5: brachialer_ansatz_5Obj (15, 7, 0, 11, 12) 500.000 bis 599.999
+	train: 500.000 bis 503422 val: 503423 bis 504278
+
+Check Vollständigkeit: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17

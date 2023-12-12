@@ -1,0 +1,2 @@
+5 Objekte, mit Ebene als Hintergrund um schatten zu simulieren, und flächenbeleuchtung hinter
+ Kamera und leichten HDRi Einfluss

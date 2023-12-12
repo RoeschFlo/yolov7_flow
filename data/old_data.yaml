@@ -1,0 +1,31 @@
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ./trainingsdaten/12.10/train
+val: ./trainingsdaten/12.10/val
+test: ./trainingsdaten/test
+
+# number of classes
+nc: 16
+
+# class names
+names: [ 
+'small_black_alu= 0',
+'small_grey_alu= 1',
+'large_black_alu= 2',
+'large_grey_alu= 3',
+'screw= 4',
+'small_nut= 5',
+'large_nut= 6',
+'axis2= 7',
+'bearing2= 8',
+'housing= 9',
+'motor2= 10',
+'spacer= 11',
+'screwdriver= 12',
+'wrench = 13',
+'drill = 14',
+'allenkey = 15',
+'blue_container= 16',
+'red_container= 17',
+]
